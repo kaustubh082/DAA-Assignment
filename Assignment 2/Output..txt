@@ -1,0 +1,36 @@
+PS C:\Users\Kaustubh\Desktop\DAA Assi> cd "c:\Users\Kaustubh\Desktop\DAA Assi\Assignment 2\" ; if ($?) { g++ Assignment2.cpp -o Assignment2 } ; if ($?) { .\Assignment2 }
+Movies loaded: 10000
+
+Sort movies by:
+1. IMDb Rating
+2. Year of Release
+3. Popularity (Votes)
+Enter choice: 2
+
+Quick Sort completed successfully.
+Sorting time: 10999 microseconds
+
+First 20 sorted movies:
+------------------------------------------------------------
+Movie           Rating  Year    Votes
+------------------------------------------------------------
+The Birth of a Nation   6.2     1915    25824
+Intolerance     7.7     1916    16385
+Broken Blossoms or the Yellow Man and the Girl  7.2     1919    10854
+The Cabinet of Dr. Caligari     8       1920    67838
+The Phantom Carriage    8       1921    13555
+The Kid 8.2     1921    131649
+Nosferatu       7.9     1922    102406
+Our Hospitality 7.8     1923    12155
+Safety Last!    8.1     1923    22150
+The Last Laugh  8       1924    14818
+Sherlock Jr.    8.2     1924    54274
+Greed   8       1924    10518
+The Navigator   7.6     1924    10764
+The Gold Rush   8.1     1925    115895
+Seven Chances   7.8     1925    11372
+Battleship Potemkin     7.9     1925    60249
+The Phantom of the Opera        7.5     1925    19537
+The General     8.1     1926    95735
+Faust   8.1     1926    16154
+Sunrise 8.1     1927    52926
