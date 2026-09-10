@@ -1,0 +1,21 @@
+                               cd "c:\Users\Kaustubh\Desktop\DAA Assi\Assignment 3\" ; if ($?) { g++ Assignment3.cpp -o Assignment3 } ; if ($?) { .\Assignment3 }
+Enter number of relief items: 3
+Enter boat capacity (kg): 20
+
+Enter item details:
+Name Weight Value Divisible(1/0)
+Medicine 5 2 1
+Food 3 5 1
+Laptop 6 2 1
+
+Selected Relief Supplies:
+
+Item    Taken Weight    Utility Fraction
+Food    3.00            5.00    1.00
+Medicine        5.00            2.00    1.00
+Laptop  6.00            2.00    1.00
+
+----------------------------------------
+Total Weight: 14.00 kg
+Total Utility: 9.00
+Remaining Capacity: 6.00 kg
