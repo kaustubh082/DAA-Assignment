@@ -1,0 +1,8 @@
+cd "c:\Users\Kaustubh\Desktop\DAA Assi\Assignment 1\" ; if ($?) { g++ Assignment1.cpp -o Assignment1 } ; if ($?) { .\Assignment1 }
+Enter size of array: 5
+Enter 5 elements: 4
+1
+9
+8
+4
+Sorted array: 1 4 4 8 9 
