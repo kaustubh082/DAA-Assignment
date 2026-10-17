@@ -1,0 +1,6 @@
+Maximum utility: 31
+Selected items (item: weight, utility):
+Item 1: 2 kg, utility 6
+Item 2: 3 kg, utility 10
+Item 4: 5 kg, utility 15
+Total weight: 10 kg / 10 kg
