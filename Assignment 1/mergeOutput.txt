@@ -1,0 +1,9 @@
+PS C:\Users\Kaustubh> cd "c:\Users\Kaustubh\Desktop\ASS7\" ; if ($?) { g++ AssiMerge.cpp -o AssiMerge } ; if ($?) { .\AssiMerge }
+Sorting complete! Here are the earliest 2 transactions:
+
+953012,D,4,87.07115246,01-12-2024 22:15,Credit Card,"285 Juan Plain
+North Suzanneshire, MD 28835",Home Decor,14.71990296,297.0174533
+
+805054,B,7,22.32984066,01-02-2024 21:49,Credit Card,"6467 Webb Ville
+New Danfurt, ND 05998",Books,7.226972563,145.0124844
+PS C:\Users\Kaustubh\Desktop\ASS7> 
